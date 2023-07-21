@@ -62,9 +62,11 @@ Note that, for now it only supports following crops
 
 ✔ Optimize performance and cost with flexible options like AWS Graviton-based instances, EC2 Spot instances, and AWS Savings Plans.
 
-![Screenshot 2023-07-21 222943](https://github.com/basel-ay/Deploying-ML-app-in-EC2-instance/assets/64821137/4b981772-8062-45cc-8e9e-ee9b5cb3ce94)
+![Screenshot 2023-07-21 222943](https://github.com/basel-ay/Deploying-ML-app-in-EC2-instance/assets/64821137/ed767fbe-e940-4092-899e-cb568a0bcadc)
 
-![Screenshot 2023-07-21 222848](https://github.com/basel-ay/Deploying-ML-app-in-EC2-instance/assets/64821137/43d99155-28b8-47b4-80ff-7d66e7577381)
+![Screenshot 2023-07-21 222848](https://github.com/basel-ay/Deploying-ML-app-in-EC2-instance/assets/64821137/8046215b-fb2e-447b-8d04-c57a2935499a)
 
-![Screenshot 2023-07-21 223027](https://github.com/basel-ay/Deploying-ML-app-in-EC2-instance/assets/64821137/2f726934-9799-4bad-b91c-cf26d60d9c01)
+![Screenshot 2023-07-21 223027](https://github.com/basel-ay/Deploying-ML-app-in-EC2-instance/assets/64821137/b8b4efbc-2131-4576-a443-302220b067e5)
+
+
 
